@@ -1,16 +1,17 @@
-## Hi there 👋
+# Rivera Systems
 
-<!--
-**rivera-systems/rivera-systems** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer focused on scalable systems, modern web architectures, and thoughtful design trade-offs.
 
-Here are some ideas to get you started:
+This GitHub serves as a living portfolio of system design, architectural experiments, and production-grade personal projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current focus
+- Headless CMS architecture using modern web patterns
+- Clear separation of concerns and system boundaries
+- Documented technical decisions and trade-offs
+
+## What you’ll find here
+- Architecture-focused personal projects
+- Design explorations and decision records (ADRs)
+- Experiments around system design and platform thinking
+
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/alvaro-rivera-garcia/)
